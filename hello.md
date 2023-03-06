@@ -45,7 +45,7 @@ Git - это одна из реализаций распределённых с�
 
 [Работа с маркдаун](https://texterra.ru/blog/ischerpyvayushchaya-shpargalka-po-sintaksisu-razmetki-markdown-na-zametku-avtoram-veb-razrabotchikam.html)
 
-[Видео с котиком](https://www.youtube.com/watch?v=mpWdSeyQ4h8)
+[Видео с Котиком](https://www.youtube.com/watch?v=mpWdSeyQ4h8)
 
 ## Работа со списками
 Работа с нумерованными списками:
